@@ -1,0 +1,1 @@
+I’ve always been fascinated by the idea of machines that can actually think and make decisions on their own in real time. The possibilities feel endless, and that’s what excites me about AI. I especially love anything to do with robots and seeing how technology keeps pushing the limits of what they can do.
