@@ -1,0 +1,17 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and model files
+data/
+models/
+
+# Virtual environment
+.env/
+venv/
+
+# Logs
+*.log
+
